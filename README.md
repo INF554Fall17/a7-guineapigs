@@ -3,7 +3,7 @@
 ***Team members:*** Sharon Cohen, Xuehan Zhao, Robyn Goldberg
 
 
-###Presentation Outline
+### Presentation Outline
 1. Introductions
 2. Topic Introduction
 3. Interest
